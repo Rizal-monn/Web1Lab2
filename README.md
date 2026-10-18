@@ -1,15 +1,59 @@
-ksknk
-sdcas
-sadasd
-asdsad
-asdasd
-asda
-dada
 
-1. Apa fungsi deklarasi <-!DOCTYPE html> pada dokumen HTML?
+
+1. Soal: Apa fungsi <table>, <tr>, <th>, dan <td>?
+
 Jawaban:
-Deklarasi <-!DOCTYPE html> berfungsi untuk menyatakan kepada browser bahwa dokumen tersebut menggunakan standar HTML5. Deklarasi ini diletakkan pada bagian paling awal dokumen agar browser dapat merender halaman web dengan benar dan sesuai standar.   
-2. Apa perbedaan antara tag, elemen, dan atribut pada HTML?
-Jawaban:Tag: Penanda awalan dan akhiran dari sebuah elemen yang ditulis dengan kurung siku (<...> dan </...>), contoh: <p> dan </p>.   Elemen: Komponen lengkap yang menyusun dokumen HTML, terdiri dari kombinasi tag pembuka, konten/isi, dan tag penutup (serta atribut jika ada). Contoh: <p>Ini paragraf</p>.   Atribut: Informasi/properti tambahan yang diberikan kepada suatu elemen, ditulis pada tag pembuka. Contoh: bgcolor="blue" atau href="...".   
-3. Apa perbedaan <p> dengan <br>? Jelaskan penggunaannya.
-Jawaban:<p> (Paragraf): Digunakan untuk membuat blok paragraf teks. Tag ini membutuhkan tag penutup (</p>) dan secara otomatis memberikan spasi/jarak sebelum dan sesudah paragraf.   <br> (Break): Digunakan untuk membuat pindah baris (line break) baru di dalam teks tanpa membuat blok paragraf baru. Tag ini merupakan self-closing tag (tidak membutuhkan tag penutup).   
+<table> membuat struktur tabel. <tr> (table row) membuat baris. <th> (table header) membuat sel judul atau header kolom. <td> (table data) membuat sel isi data.
+
+2. Soal: Apa perbedaan <th> dan <td>?
+
+Jawaban:
+<th> adalah sel header yang secara bawaan tampil tebal dan rata tengah, serta menandai judul kolom atau baris. <td> adalah sel data biasa yang berisi isi tabel.
+
+3. Soal: Apa fungsi colspan pada tabel?
+
+Jawaban:
+colspan menggabungkan beberapa kolom menjadi satu sel. Contoh: <td colspan="2">Rata-rata</td> membuat sel selebar 2 kolom.
+
+4. Soal: Apa fungsi <form> dalam HTML?
+
+Jawaban:
+<form> adalah wadah untuk elemen-elemen input yang menerima data dari pengguna. Data tersebut dikirim (misalnya ke server) saat tombol submit ditekan.
+
+5. Soal: Apa perbedaan radio button dan checkbox?
+
+Jawaban:
+Radio button hanya memperbolehkan satu pilihan dari sekelompok opsi (opsi dalam satu grup memakai name yang sama). Checkbox memperbolehkan memilih satu atau lebih opsi.
+
+6. Soal: Mengapa <label> sebaiknya terhubung dengan id input melalui atribut for?
+
+Jawaban:
+Agar label dan input saling terhubung. Saat label diklik, input otomatis aktif (area klik lebih luas), dan pembaca layar dapat membacakan label yang sesuai (aksesibilitas).
+
+7. Soal: Apa perbedaan <textarea> dengan input type="text"?
+
+Jawaban:
+<textarea> untuk teks panjang dan banyak baris, dengan ukuran diatur lewat rows dan cols. input type="text" untuk teks pendek satu baris.
+
+8. Soal: Apa fungsi semantic HTML seperti <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>?
+
+Jawaban:
+Semantic HTML memberi makna yang jelas pada struktur halaman, sehingga lebih mudah dibaca, dipahami mesin pencari (SEO), dan diakses.
+
+<header>: kepala halaman atau bagian.
+<nav>: menu navigasi.
+<main>: konten utama.
+<section>: pengelompokan konten sejenis.
+<article>: konten mandiri, misalnya berita.
+<aside>: konten pelengkap atau informasi tambahan.
+<footer>: kaki halaman atau bagian.
+
+9. Soal: Apa fungsi required, min, max, dan minlength?
+
+Jawaban:
+required mewajibkan input diisi. min menentukan nilai angka minimum. max menentukan nilai angka maksimum. minlength menentukan jumlah karakter minimum pada teks.
+
+10. Soal: Apa perbedaan elemen <audio> dan <video>?
+
+Jawaban:
+<audio> memutar suara saja, hanya menampilkan kontrol pemutar. <video> memutar gambar dan suara, dan ukurannya dapat diatur dengan width atau height.
