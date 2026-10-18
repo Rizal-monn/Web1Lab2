@@ -6,8 +6,10 @@ A. Jawaban Pertanyaan
 • <tr> (table row): membuat baris.
 • <th> (table header): membuat sel judul/header kolom.
 • <td> (table data): membuat sel isi data.
+
 2. Apa perbedaan <th> dan <td>?
  <th> adalah sel header yang secara bawaan tampil tebal dan rata tengah, dan menandai judul kolom/baris. <td> adalah sel data biasa yang berisi isi tabel.
+
 3. Apa fungsi colspan pada tabel? 
 colspan menggabungkan beberapa kolom dalam satu sel. Contoh: <td colspan="2">Rata-rata</td> membuat sel selebar 2 kolom.
 4. Apa fungsi <form> dalam HTML?
