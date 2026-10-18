@@ -1,5 +1,14 @@
 ### Praktikum2
 
+### Daftar gambar :
+![Gambar 1](screenshot/SSL6.png)
+![Gambar 2](screenshot/ssl1.png)
+![Gambar 3](screenshot/ssl2.png)
+![Gambar 4](screenshot/ssl3.png)
+![Gambar 5](screenshot/ssl4.png)
+![Gambar 6](screenshot/ssl5.png)
+
+
 ### Video :
 ![Video 1] (Video/VDD1.mp4)
 
