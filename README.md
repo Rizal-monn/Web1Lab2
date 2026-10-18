@@ -1,6 +1,7 @@
 ### Praktikum2
 
-
+### Video :
+![Video 1] (Video/VDD1.mp4)
 
 1. Apa fungsi <--table-->, <--tr-->, <--th-->, dan <--td-->?
 Jawaban:
