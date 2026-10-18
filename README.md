@@ -1,21 +1,21 @@
-# Web1Lab2
+### Web1Lab2
 
-1. Soal: Apa fungsi <table>, <tr>, <th>, dan <td>?
+# 1. Soal: Apa fungsi <table>, <tr>, <th>, dan <td>?
 
 Jawaban:
 <table> membuat struktur tabel. <tr> (table row) membuat baris. <th> (table header) membuat sel judul atau header kolom. <td> (table data) membuat sel isi data.
 
-2. Soal: Apa perbedaan <th> dan <td>?
+# 2. Soal: Apa perbedaan <th> dan <td>?
 
 Jawaban:
 <th> adalah sel header yang secara bawaan tampil tebal dan rata tengah, serta menandai judul kolom atau baris. <td> adalah sel data biasa yang berisi isi tabel.
 
-3. Soal: Apa fungsi colspan pada tabel?
+# 3. Soal: Apa fungsi colspan pada tabel?
 
 Jawaban:
 colspan menggabungkan beberapa kolom menjadi satu sel. Contoh: <td colspan="2">Rata-rata</td> membuat sel selebar 2 kolom.
 
-4. Soal: Apa fungsi <form> dalam HTML?
+# 4. Soal: Apa fungsi <form> dalam HTML?
 
 Jawaban:
 <form> adalah wadah untuk elemen-elemen input yang menerima data dari pengguna. Data tersebut dikirim (misalnya ke server) saat tombol submit ditekan.
