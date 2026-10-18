@@ -12,6 +12,7 @@
 ### Video :
 ![Video 1] (Video/VDD1.mp4)
 
+### Soal & Jawaban
 1. Apa fungsi <--table-->, <--tr-->, <--th-->, dan <--td-->?
 Jawaban:
 <--table--> membuat struktur tabel. <--tr--> (table row) membuat baris. <--th--> (table header) membuat sel judul atau header kolom. <--td--> (table data) membuat sel isi data.
